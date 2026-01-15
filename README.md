@@ -1,2 +1,2 @@
 # HomeworkSQM
-Jenkins Jobs + Java Tests (Task1 + Task2)
+Jenkins Jobs + Java Tests
